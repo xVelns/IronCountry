@@ -1,2 +1,2 @@
 # IronCountry
-Iron Country Roleplay ideju apkopošana
+Iron Country Roleplay ideju apkopošana FiveM serverim.
