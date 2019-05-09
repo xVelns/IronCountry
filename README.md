@@ -1,2 +1,2 @@
-# IronCountry
-Iron Country Roleplay ideju apkopošana FiveM serverim.
+# The Iron Country | Latviešu Roleplay projekts
+The Iron Country Roleplay ideju apkopošana FiveM serverim.
