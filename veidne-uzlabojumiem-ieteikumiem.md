@@ -1,6 +1,8 @@
+---
 Nosaukums: Ieteikuma/Uzlabojuma veidne
 Apraksts: Vēlēties redzēt savu ideju serverī.
 uzlīme/etiķete: Ieteikums/Uzlabojums
+---
 
 **Vai šis ieteikums ir saistīts ar kādu problēmu? Lūdzu izkaidro to.**
 Detalizēts apraksts par problēmu, ja tā pastāv. (Ja nē, rakstam "nē")
